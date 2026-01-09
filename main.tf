@@ -41,5 +41,4 @@ resource "azurerm_storage_account" "sa" {
   }
 
   tags = var.tags
-
 }
